@@ -80,7 +80,7 @@ packages:
       path: "/home/vend/Documents/FlutterTrainingRepos/VD_flutter_training_10/mathematics"
       relative: false
     source: path
-    version: "0.0.1"
+    version: "0.0.2"
   meta:
     dependency: transitive
     description:

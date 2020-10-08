@@ -1,10 +1,9 @@
 name: mathematics
 description: This mathematics library contains everyday mathematical functions making it easy for the user to do complex calculations easily
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/HamzaVD/VD_flutter_training_10/tree/main/mathematics
 homepage: https://github.com/HamzaVD/VD_flutter_training_10/blob/main/mathematics/lib/mathematics.dart
-authors:
-    - "Hamza Abdul Mateen"
+
 environment:
   sdk: ">=2.7.0 <3.0.0"
   flutter: ">=1.17.0 <2.0.0"
