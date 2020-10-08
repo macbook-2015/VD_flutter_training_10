@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Released on Oct 7, 2020
 
-* TODO: Describe initial release.
+* The initial release contains functions to find square and cube of the given number and two more functions to find highest or lowest number from the given list of numbers
